@@ -8,7 +8,7 @@ How it looks like? :thinking:
 
 <div align="center">
 
-![](https://i.imgur.com/d3iLd8g.gif)
+![https://hasashisama-calculator.netlify.com/](https://i.imgur.com/9tA6VAR.gif)
 
 *Basic Calculator*
 
