@@ -1,0 +1,64 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": ["airbnb"],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react",
+        "react-hooks",
+        "import",
+        "import-helpers"
+    ],
+    "rules": {
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+        "import/prefer-default-export": "off",
+        "no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
+        "react/jsx-one-expression-per-line": "off",
+        "global-require": "off",
+        "no-param-reassign": "off",
+        "no-underscore-dangle": "off",
+        "camelcase": "off",
+        "comma-dangle": "off",
+        "prefer-const": "off",
+        "no-eval": "off",
+        "no-console": ["error", { "allow": ["tron"] }],
+        "react-hooks/rules-of-hooks": "error",
+        "react-hooks/exhaustive-deps": "warn",
+        "react/prop-types": "off",
+        "import-helpers/order-imports": [
+          "warn",
+          {
+            "newlinesBetween": "always",
+            "groups": [
+              "/^react/",
+              "module",
+              "/^~/",
+              ["parent", "sibling", "index"]
+            ],
+            "alphabetize": { "order": "asc", "ignoreCase": true }
+          }
+        ]
+    },
+    "settings": {
+        "import/resolver": {
+            "node": {
+              "paths": ["src"]
+             },
+						 "babel-plugin-root-import": {
+							"rootPathSuffix": "src"
+						}
+        }
+    }
+}
