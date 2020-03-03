@@ -3,7 +3,7 @@ Front End Libraries Projects - Build a Javascript Calculator
 </h1>
 
 <h2>
-What it looks like? :thinking:
+how does it look? :thinking:
 </h2>
 
 <div align="center">
