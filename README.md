@@ -1,5 +1,5 @@
 <h1 align="center">
-Front End Libraries Projects - Build a Javascript Calculator
+Javascript Calculator
 </h1>
 
 <h2>
