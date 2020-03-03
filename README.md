@@ -1,5 +1,5 @@
 <h1 align="center">
-Javascript Calculator
+React Calculator
 </h1>
 
 <h2>
