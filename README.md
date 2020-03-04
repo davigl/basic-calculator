@@ -1,6 +1,6 @@
-## 1️⃣ React Calculator
+## ➗ React Calculator
 
-Calculator that allows basic maths operations.
+Calculator that allows basic maths operations. :one: ➕ :one:
 
 ***
 
