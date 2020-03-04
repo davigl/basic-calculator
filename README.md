@@ -1,6 +1,6 @@
 ## ➗ React Calculator
 
-Calculator that allows basic maths operations. :one: ➕ :one:
+Calculator that allows basic maths operations, visit the project by clicking (here)[http://eudavi-calculator.netlify.com/]. :one: ➕ :one:
 
 ***
 
