@@ -1,5 +1,5 @@
 <h1 align="center">
-  ➗ React Calculator
+  <img alt="React Basic Calculator" src="https://i.imgur.com/50r2B02.png" />
   <br>
 </h1>
 
