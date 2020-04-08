@@ -15,7 +15,8 @@ const GlobalStyle = createGlobalStyle`
   }
 
   button:focus {
-    outline:none;
+    text-decoration: none;
+    outline: 0 none;
   }
 
   button:active {

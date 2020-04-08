@@ -20,8 +20,11 @@ const Reset = createGlobalStyle`
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
   }
-  /* HTML5 display-role reset for older browsers */
+  *:focus {
+    outline: 0;
+  }
   article, aside, details, figcaption, figure,
   footer, header, hgroup, menu, nav, section {
     display: block;

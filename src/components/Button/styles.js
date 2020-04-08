@@ -26,4 +26,8 @@ export const Key = styled.button`
     height: ${heightMobileButton};
     width: ${(props) => (props.size ? widthBiggerButton : widthMobileButton)};
   }
+
+  &:active {
+    background-image: none;
+  }
 `;
