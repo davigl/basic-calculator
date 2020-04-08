@@ -1,6 +1,8 @@
 export const sizes = {
   sizeScreen: '30px',
   heightButton: '65px',
+  heightMobileButton: '40px',
+  widthMobileButton: '40px',
   widthSmallButton: '65px',
   widthBiggerButton: '225px'
 };

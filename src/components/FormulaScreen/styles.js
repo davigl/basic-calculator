@@ -14,7 +14,11 @@ export const Container = styled.div`
   color: ${white};
   margin-top: 15px;
   margin-bottom: 10px;
-  width: 95%;
+  width: 90%;
   padding: 7px;
   font-family: 'digital';
+
+  @media (max-width: 768px) {
+    max-width: 230px;
+  }
 `;

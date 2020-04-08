@@ -6,7 +6,9 @@ import {
   checkZeroDigit, checkLastAction, isDot, isNumber, deleteElement, changeLastElement
 } from '~/utils/';
 
-import { Wrapper, Parent, Layer } from './styles';
+import {
+  Wrapper, Parent, Layer,
+} from './styles';
 
 export default function Calculator() {
   const [result, setResult] = useState('0');
@@ -81,7 +83,7 @@ export default function Calculator() {
     <Parent>
       <Wrapper>
         <Layer>
-          CALCULATOR
+          <p> CALCULATOR </p>
         </Layer>
       </Wrapper>
       <Wrapper>
