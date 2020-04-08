@@ -25,7 +25,7 @@ export const Layer = styled.div`
   }
 `;
 
-export const Wrapper = styled.main`
+export const Wrapper = styled.div`
   font-family: GTWalsheim;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   transition: background-color 5s linear;
@@ -53,7 +53,7 @@ export const Wrapper = styled.main`
   }
 `;
 
-export const Parent = styled.div`
+export const Parent = styled.main`
   height: 100vh;
   align-items: center;
   justify-items: center;
