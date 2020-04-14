@@ -5,20 +5,20 @@
 
 <p align="center">
   <a href="https://github.com/Davigl/basic-calculator/commits/master">
-    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Davigl/basic-calculator?style=flat-square&color=ff69b4">
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Davigl/pwa-basic-calculator?style=flat-square&color=ff69b4">
   </a>
   
   <a href="https://github.com/Davigl/basic-calculator/stargazers">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Davigl/basic-calculator?style=flat-square&color=9cf">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Davigl/pwa-basic-calculator?style=flat-square&color=9cf">
   </a>
 
   <a href="https://github.com/Davigl/basic-calculator/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Davigl/basic-calculator?style=flat-square&color=yellow">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Davigl/pwa-basic-calculator?style=flat-square&color=yellow">
   </a>
   
-  <img alt="GitHub top Language" src="https://img.shields.io/github/languages/top/davigl/basic-calculator.svg?style=flat-square">
+  <img alt="GitHub top Language" src="https://img.shields.io/github/languages/top/davigl/pwa-basic-calculator.svg?style=flat-square">
 
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/Davigl/basic-calculator?style=flat-square&color=blueviolet">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/Davigl/pwa-basic-calculator?style=flat-square&color=blueviolet">
 </p>
 
 <p align="center">
