@@ -4,15 +4,15 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Davigl/basic-calculator/commits/master">
+  <a href="https://github.com/Davigl/pwa-basic-calculator/commits/master">
     <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Davigl/pwa-basic-calculator?style=flat-square&color=ff69b4">
   </a>
   
-  <a href="https://github.com/Davigl/basic-calculator/stargazers">
+  <a href="https://github.com/Davigl/pwa-basic-calculator/stargazers">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Davigl/pwa-basic-calculator?style=flat-square&color=9cf">
   </a>
 
-  <a href="https://github.com/Davigl/basic-calculator/issues">
+  <a href="https://github.com/Davigl/pwa-basic-calculator/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Davigl/pwa-basic-calculator?style=flat-square&color=yellow">
   </a>
   
